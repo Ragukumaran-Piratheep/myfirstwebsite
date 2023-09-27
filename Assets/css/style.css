@@ -1,0 +1,34 @@
+
+
+#top{
+    background-color: #f2644c;
+}
+
+#Home {
+    align-items: center;
+}
+
+.home1{
+    background-color:off white;
+}
+
+.clients {
+    background-color: #f1d580;;
+}
+
+.col {
+    padding: 10px;
+}
+
+.col-md {
+    padding: 10px;
+}
+
+
+.line{
+    width: 60px;
+    height: 15px;
+    color: #fb6705;
+    margin: auto;
+    text-align: center;
+}
